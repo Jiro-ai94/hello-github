@@ -1,3 +1,3 @@
-***hello-github***
+hello-github
 こんにちわ
 初めてのgitのテストです
