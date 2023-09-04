@@ -1,4 +1,4 @@
-hello-github
+# Hello-github
 こんにちわ
 初めてのgitのテストです
 "/n GitHub の機能を試すためのリポジトリです。" 
